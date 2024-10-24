@@ -1,9 +1,11 @@
 
-🌱 I’m currently learning computer science/engineering
+🌱 i’m currently learning computer science/engineering at aarhus university, seeking a masters degree.
 
-## Projects in development
-- All-including skill tree
-- Keyboard keyboard (a portable wireless midi controller doubling as an ergonomic computer keyboard)
+## Soon to be added projects
+- ricing for my arch setup
+- keyboard keyboard (a portable wireless midi controller doubling as an ergonomic computer keyboard)
+- ergonomic, efficient keyboard layout for programming
+- plant watering unit
 
 <!---
 garlicxd/garlicxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
